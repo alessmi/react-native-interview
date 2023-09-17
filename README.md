@@ -55,6 +55,4 @@ En el mundo de las apps el diseño y la presencia es fundamental,  para ello req
 __REQUERIMIENTO:__
 En la pantalla "mi perfil" debemos mostrar una lista de las últimas 10 canciones reproducidas
 
-> Debido a que esta pruba se trata de app, se debe comparti el QR Expo, o el .APK
-
 Gracias por participar! 
