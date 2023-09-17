@@ -14,9 +14,6 @@ La prueba general se divide en pequeños ejercicios con los cuales se evaluará 
 Finalizada la prueba recuerda enviar link del proyecto o tu repositorio a [miguelaless.hc@gmail.com](mailto:miguelaless.hc@gmail.com) con tu información de contacto y en el asunto colocar: 
 __REACT-NATIVE-INTERVIEW__
 
-
-> Recomendación: No importa terminar todos los ejercicios, lo más importante es la funcionalidad del ejercicio resuelto(s).
-
 ### Contexto:
 Vamos a construir una app que contara con tres(3) vistas, la primera vista "Home" contendrá una lista de top canciones más escuchadas. También obtendremos una vista de "detalle" donde mostraremos la información del artista de la canción y una vista "mi perfil" donde tendremos guardado nuestros artistas favoritos, para facilitar la prueba usaremos "async-storage" para almacenar esta información.
 
